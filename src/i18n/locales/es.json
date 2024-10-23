@@ -1,0 +1,54 @@
+{
+  "header": {
+    "cambiarIdioma": "Cambiar el idioma"
+  },
+  "footer": {
+    "derechosAutor": "© 2024. Desarrollado por Junior Jusmé"
+  },
+  "paginaPrincipal": {
+    "titulo": "Lista de Empresas",
+    "btnAgregar": "Agregar Empresa",
+    "sinEmpresas": "No se encontraron empresas.",
+    "mensajeSinEmpresas": "Empieza agregando una empresa con el botón de arriba."
+  },
+  "listaEmpresas": {
+    "nombre": "Nombre",
+    "tipo": "Tipo de Empresa",
+    "fecha": "Fecha de Constitución",
+    "favorita": "Favorita",
+    "acciones": "Acciones",
+    "esFavorita": "Sí",
+    "btnEditar": "Editar Empresa",
+    "btnEliminar": "Eliminar Empresa"
+  },
+  "formularioEmpresa": {
+    "titulo": { "agregar": "Agregando Empresa", "editar": "Editando Empresa" },
+    "mensaje1": "Los campos marcados con ",
+    "mensaje2": " son obligatorios",
+    "nombre": "Nombre de la Empresa",
+    "tipo": {
+      "label": "Tipo de Empresa",
+      "opcion1": "Distribuidor",
+      "opcion2": "Mayorista",
+      "opcion3": "Usuario final"
+    },
+    "fecha": "Fecha de Constitución",
+    "favorita": "Favorita",
+    "comentarios": "Comentarios",
+    "btnCancelar": "Cancelar",
+    "btnGuardar": "Guardar"
+  },
+  "confirmarEliminacion": {
+    "titulo": "Confirmar Eliminación",
+    "mensaje": "¿Estás seguro de que quieres eliminar la empresa ",
+    "btnCancelar": "Cancelar",
+    "btnAceptar": "Aceptar"
+  },
+
+  "notificacion": {
+    "agregada": "Empresa agregada exitosamente",
+    "editada": "Empresa editada exitosamente",
+    "eliminada": "Empresa eliminada exitosamente",
+    "eliminadaError": "Hubo un error eliminando la empresa"
+  }
+}

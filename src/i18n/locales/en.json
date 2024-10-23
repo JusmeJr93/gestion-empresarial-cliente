@@ -1,0 +1,54 @@
+{
+  "header": {
+    "cambiarIdioma": "Change Language"
+  },
+  "footer": {
+    "derechosAutor": "© 2024. Developed by Junior Jusmé"
+  },
+  "paginaPrincipal": {
+    "titulo": "List of companies",
+    "btnAgregar": "Add Company",
+    "sinEmpresas": "No companies found.",
+    "mensajeSinEmpresas": "Start by adding a company with the button above."
+  },
+  "listaEmpresas": {
+    "nombre": "Name",
+    "tipo": "Company Type",
+    "fecha": "Incorporation Date",
+    "favorita": "Favorite",
+    "acciones": "Actions",
+    "esFavorita": "Yes",
+    "btnEditar": "Edit Company",
+    "btnEliminar": "Delete Company"
+  },
+  "formularioEmpresa": {
+    "titulo": { "agregar": "Adding Company", "editar": "Editing Company" },
+    "mensaje1": "The fields marked with ",
+    "mensaje2": " are required",
+    "nombre": "Company Name",
+    "tipo": {
+      "label": "Company Type",
+      "opcion1": "Distributor",
+      "opcion2": "Wholesaler",
+      "opcion3": "End User"
+    },
+    "fecha": "Date of Incorporation",
+    "favorita": "Favorite",
+    "comentarios": "Comments",
+    "btnCancelar": "Cancel",
+    "btnGuardar": "Save"
+  },
+  "confirmarEliminacion": {
+    "titulo": "Confirm Deletion",
+    "mensaje": "Are you sure you want to delete the company ",
+    "btnCancelar": "Cancel",
+    "btnAceptar": "Confirm"
+  },
+
+  "notificacion": {
+    "agregada": "Company added successfully",
+    "editada": "Company edited successfully",
+    "eliminada": "Company deleted successfully",
+    "eliminadaError": "There was an error deleting the company"
+  }
+}
