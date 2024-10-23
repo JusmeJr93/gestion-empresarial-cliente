@@ -1,7 +1,7 @@
 import axios from "axios";
 
-// const API_URL = 'https://gestion-empresarial-servidor-4f5fab8b1039.herokuapp.com/api/empresas';
-const API_URL = 'http://localhost:3001/api/empresas';
+const API_URL = 'https://gestion-empresarial-servidor-4f5fab8b1039.herokuapp.com/api/empresas';
+// const API_URL = 'http://localhost:3001/api/empresas';
 
 export const obtenerEmpresas = async () => {
     const response = await axios.get(API_URL);

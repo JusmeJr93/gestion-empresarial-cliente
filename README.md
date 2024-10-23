@@ -3,9 +3,9 @@
 Aplicación web para la gestión de empresa que permite **crear**, **consultar**, **editar** y **eliminar** empresas a través de una interfaz interactiva con funcionalidades como internacionalización y notificaciones.
 Este proyecto está construido utilizando principalmente **React**, **Vite**, **Semantic UI React** en el frontend y **Node.js**, **Express**, **MySQL** en el backend; entre otras tecnologías modernas.
 
-Para el repositorio del backend, da clic [aquí(https://github.com/JusmeJr93/gestion-empresarial-servidor)].
+Para el repositorio del backend, da clic [aquí](https://github.com/JusmeJr93/gestion-empresarial-servidor/).
 
-La aplicación completa está desplegada en Vercel. Se puede acceder aquí: [Reto técnico Full Stack Developer() ]
+La aplicación completa está desplegada en Vercel. Se puede acceder aquí: [Reto técnico Full Stack Developer](https://gestion-empresarial-fullstack.vercel.app/)
 
 ## Tecnologías Usadas
 
