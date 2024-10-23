@@ -44,13 +44,13 @@ const FormularioEmpresa = ({ abierto, onClose, onGuardar, datosIniciales }) => {
       limpiarFormulario();
       onClose();
     } catch (error) {
-      if (error.response && error.response.data.errors) {
-        const newErrors = {};
-        error.response.data.errors.forEach((err) => {
-          newErrors[err.path] = err.msg;
-        });
-        setErrores(newErrors);
-      }
+      const newErrors = {};
+
+      error.response.data.errors.forEach((err) => {
+        newErrors[err.path] = err.msg;
+      });
+
+      setErrores(newErrors);
     }
   };
 

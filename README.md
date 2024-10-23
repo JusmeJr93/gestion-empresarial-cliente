@@ -33,3 +33,9 @@ La aplicación completa está desplegada en Vercel. Se puede acceder aquí: [Ret
 - **ConfirmarEliminacion.jsx**: Modal para confirmar la eliminación de una empresa.
 - **i18n.js**: Configuración de la internacionalización para cambiar de idioma.
 - **formatoFecha.js**: Utilidad para formatear la fecha según el idioma seleccionado
+
+## Uso de IA
+
+- **Inspiración de la interfaz**: La interfaz de la aplicación fue inspirada por un diseño generado en Figma a través de **Galileo AI**, el cual proporcionó ideas valiosas para el layout. Esto me ayudó a simplificar la disposición de los elementos y mejorar la experiencia de usuario.
+- **Gestión de errores en el formulario**: Yo estaba gestionando los errores en la pagina principal, lo que provocaba que el formulario se cerrara antes de mostrar los mensajes de errores como feedback el mismo formulario. Con una sugerencia de **ChatGPT** logré corregir eso.
+- **Método para pasar el idioma al formatear la fecha**: Para mejorar la internacionalización de la aplicación, **ChatGPT** me proporcionó varios metodos de pasar el idioma actualmente en uso a la función que formatea las fechas en la tabla de empresas.
